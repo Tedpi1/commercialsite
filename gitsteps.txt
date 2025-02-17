@@ -1,3 +1,8 @@
+
+
+
+git init // initialize a new git repository
+
 git add .
 
 git commit -m Yourname
